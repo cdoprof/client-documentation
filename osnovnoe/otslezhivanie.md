@@ -8,7 +8,7 @@
 
 После выбора устройства будут отображены последние данные отправленные на сервер.
 
-<figure><img src="../assets/Снимок экрана 2025-07-01 в 10.32.27.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="assets/Снимок экрана 2025-07-01 в 10.32.27.png" alt=""><figcaption></figcaption></figure>
 
 ## Какие функции доступны у каждого устройства?
 
